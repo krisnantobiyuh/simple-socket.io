@@ -1,0 +1,23 @@
+{
+  "name": "simple-socket",
+  "version": "1.0.0",
+  "description": "simple live chat with socket.io",
+  "main": "server-socket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisnantobiyuh/simple-socket.io.git"
+  },
+  "author": "krisnanto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krisnantobiyuh/simple-socket.io/issues"
+  },
+  "homepage": "https://github.com/krisnantobiyuh/simple-socket.io#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
+  }
+}
